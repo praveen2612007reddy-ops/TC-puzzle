@@ -1,0 +1,6 @@
+{
+  "name": "Tollywood & Cricket Puzzle Solver",
+  "description": "Guess Telugu Tollywood movies by actors, directors & iconic clues, plus cricket legends by jersey numbers and teams. Mobile-first puzzle solver with interactive clues, hints, streaks, and smart solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
